@@ -14,16 +14,6 @@ I'm a student who is passionate about **web development**, especially frontend, 
 - HTML, CSS, JavaScript (basic)
 - PHP (basic), MySQL
 - Cisco Networking (basic)
-- Linux CLI
-
-📫 How to reach me:
-- ✉️ Email: your-email@example.com
-- 📷 Instagram: [@yourusername](https://instagram.com/yourusername)
-
-🧠 Fun Facts:
-- I like clean outfit styles.
-- I enjoy solving technical problems step-by-step.
-- Sometimes I jog (but still trying to be more consistent 😅).
 
 ---
 
