@@ -19,7 +19,7 @@ I'm a student who is passionate about **web development**, especially frontend, 
 
 📈 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KennardUsername&show_icons=true&theme=tokyonight" alt="Kennard's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knardd&show_icons=true&theme=tokyonight" alt="Kennard's GitHub stats" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennardUsername&theme=tokyonight" alt="GitHub Streak" width="45%" />
 </p>
 
