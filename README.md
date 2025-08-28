@@ -3,7 +3,7 @@ My Name Shafwan Kennard Kumara<br>
 Studying At Nine Vocation School of Surakarta<br>
 Studying Networking, Website, IOT<br>
 
-# 🌐Socials
+# 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knardd__)<br>
 
 # 💻Tech Stack:
