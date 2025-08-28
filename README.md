@@ -3,16 +3,19 @@ My Name Shafwan Kennard Kumara<br>
 Studying At Nine Vocation School of Surakarta<br>
 Studying Networking, Website, IOT<br>
 
+# 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knardd__)<br>
+
 # 💻Tech Stack:
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Network](https://img.shields.io/badge/Network-1A73E8?style=flat-square&logo=cisco&logoColor=white)
 
 # 📊GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=knardd&show_icons=true&theme=tokyonight" alt="Knardd's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knardd&theme=tokyonight" alt="GitHub Streak" width="45%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knardd&show_icons=true&theme=radical)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knardd&layout=compact&theme=radical)<br>
