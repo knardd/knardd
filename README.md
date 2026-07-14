@@ -14,7 +14,7 @@ Studying Networking, Website, IOT<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Network](https://img.shields.io/badge/Network-1A73E8?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Network-1A73E8?style=flat-square&logo=cisco&logoColor=white)
 
 # 📊GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knardd&show_icons=true&theme=radical)<br>
