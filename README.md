@@ -1,7 +1,7 @@
 # ✨About Me:
 My Name Shafwan Kennard Kumara<br>
 Studying At Nine Vocation School of Surakarta<br>
-Studying Networking, Website, IOT<br>
+Studying Networking, Website<br>
 
 # 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knardd__)<br>
@@ -14,7 +14,7 @@ Studying Networking, Website, IOT<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/Network-1A73E8?style=flat-square&logo=cisco&logoColor=white)
+![Network](https://img.shields.io/badge/Network-1A73E8?style=flat-square&logo=cisco&logoColor=white)
 
 # 📊GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knardd&show_icons=true&theme=radical)<br>
